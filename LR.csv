@@ -1,0 +1,181 @@
+Stomatal Density Average R,Stomatal Density Average L,Difference between L & R,Difference between L & R mm2,age,potnumber,shade,barrier,shadebarrierword,shadebarrier,remark
+23.2,41.8,-18.6,-41.33333333,N,1,Fullshade,Fullbarrier,Fs Fb,1A,none
+21.8,38,-16.2,-36,O,1,Fullshade,Fullbarrier,Fs Fb,1A,none
+20,37.8,-17.8,-39.55555556,N,2,Fullshade,Fullbarrier,Fs Fb,1A,none
+15.6,28.4,-12.8,-28.44444444,O,2,Fullshade,Fullbarrier,Fs Fb,1A,none
+27.4,36.2,-8.8,-19.55555556,N,3,Fullshade,Fullbarrier,Fs Fb,1A,none
+22,29.6,-7.6,-16.88888889,O,3,Fullshade,Fullbarrier,Fs Fb,1A,none
+30.8,37.6,-6.8,-15.11111111,N,4,Fullshade,Fullbarrier,Fs Fb,1A,none
+8.4,23,-14.6,-32.44444444,O,4,Fullshade,Fullbarrier,Fs Fb,1A,none
+32,39.2,-7.2,-16,N,5,Fullshade,Fullbarrier,Fs Fb,1A,none
+19,21.6,-2.6,-5.777777778,O,5,Fullshade,Fullbarrier,Fs Fb,1A,none
+34.8,29,5.8,12.88888889,N,6,Fullshade,Fullbarrier,Fs Fb,1A,none
+21,22.6,-1.6,-3.555555556,O,6,Fullshade,Fullbarrier,Fs Fb,1A,none
+35.8,30.2,5.6,12.44444444,N,7,Fullshade,Fullbarrier,Fs Fb,1A,none
+22.2,21.4,0.8,1.777777778,O,7,Fullshade,Fullbarrier,Fs Fb,1A,none
+18.6,23.2,-4.6,-10.22222222,N,8,Fullshade,Fullbarrier,Fs Fb,1A,none
+28.8,31.8,-3,-6.666666667,O,8,Fullshade,Fullbarrier,Fs Fb,1A,none
+26.4,42.6,-16.2,-36,N,9,Fullshade,Fullbarrier,Fs Fb,1A,none
+26.6,26.2,0.4,0.888888889,O,9,Fullshade,Fullbarrier,Fs Fb,1A,none
+36.8,23.2,13.6,30.22222222,N,10,Fullshade,Fullbarrier,Fs Fb,1A,none
+29.6,16,13.6,30.22222222,O,10,Fullshade,Fullbarrier,Fs Fb,1A,none
+34.4,27,7.4,16.44444444,N,11,Fullshade,Halfbarrier,Fs Hb ,1B,none
+16,19.6,-3.6,-8,O,11,Fullshade,Halfbarrier,Fs Hb ,1B,none
+37.6,25,12.6,28,N,12,Fullshade,Halfbarrier,Fs Hb ,1B,ts
+29.2,25,4.2,9.333333333,O,12,Fullshade,Halfbarrier,Fs Hb ,1B,none
+27.6,30.6,-3,-6.666666667,N,13,Fullshade,Halfbarrier,Fs Hb ,1B,none
+29.8,22.8,7,15.55555556,O,13,Fullshade,Halfbarrier,Fs Hb ,1B,none
+35.6,26.4,9.2,20.44444444,N,14,Fullshade,Halfbarrier,Fs Hb ,1B,ts
+40.6,17,23.6,52.44444444,O,14,Fullshade,Halfbarrier,Fs Hb ,1B,ts
+28.2,56.2,-28,-62.22222222,N,15,Fullshade,Halfbarrier,Fs Hb ,1B,none
+17.2,36,-18.8,-41.77777778,O,15,Fullshade,Halfbarrier,Fs Hb ,1B,none
+32.6,35,-2.4,-5.333333333,N,16,Fullshade,Halfbarrier,Fs Hb ,1B,none
+27.2,22.6,4.6,10.22222222,O,16,Fullshade,Halfbarrier,Fs Hb ,1B,none
+39.8,31,8.8,19.55555556,N,17,Fullshade,Halfbarrier,Fs Hb ,1B,none
+30.8,20.6,10.2,22.66666667,O,17,Fullshade,Halfbarrier,Fs Hb ,1B,none
+32.4,34.6,-2.2,-4.888888889,N,18,Fullshade,Halfbarrier,Fs Hb ,1B,none
+23,24.2,-1.2,-2.666666667,O,18,Fullshade,Halfbarrier,Fs Hb ,1B,none
+30.6,37.6,-7,-15.55555556,N,19,Fullshade,Halfbarrier,Fs Hb ,1B,none
+33.2,23.6,9.6,21.33333333,O,19,Fullshade,Halfbarrier,Fs Hb ,1B,none
+37.8,32.4,5.4,12,N,20,Fullshade,Halfbarrier,Fs Hb ,1B,none
+31,44.2,-13.2,-29.33333333,O,20,Fullshade,Halfbarrier,Fs Hb ,1B,none
+35,27.2,7.8,17.33333333,N,21,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.8,16.4,10.4,23.11111111,O,21,Fullshade,Nobarrier,Fs Nb ,1C,none
+20,30.4,-10.4,-23.11111111,N,22,Fullshade,Nobarrier,Fs Nb ,1C,none
+17.8,29.4,-11.6,-25.77777778,O,22,Fullshade,Nobarrier,Fs Nb ,1C,none
+35,28.4,6.6,14.66666667,N,23,Fullshade,Nobarrier,Fs Nb ,1C,none
+22.2,26,-3.8,-8.444444444,O,23,Fullshade,Nobarrier,Fs Nb ,1C,none
+37,28.2,8.8,19.55555556,N,24,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.6,25.2,1.4,3.111111111,O,24,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.2,20.2,6,13.33333333,N,25,Fullshade,Nobarrier,Fs Nb ,1C,none
+21.4,11.6,9.8,21.77777778,O,25,Fullshade,Nobarrier,Fs Nb ,1C,none
+28.6,36.4,-7.8,-17.33333333,N,26,Fullshade,Nobarrier,Fs Nb ,1C,none
+20.4,28.2,-7.8,-17.33333333,O,26,Fullshade,Nobarrier,Fs Nb ,1C,none
+35.8,30.6,5.2,11.55555556,N,27,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.6,22.4,4.2,9.333333333,O,27,Fullshade,Nobarrier,Fs Nb ,1C,none
+40,21,19,42.22222222,N,28,Fullshade,Nobarrier,Fs Nb ,1C,none
+19.4,13.2,6.2,13.77777778,O,28,Fullshade,Nobarrier,Fs Nb ,1C,none
+36.6,17,19.6,43.55555556,N,29,Fullshade,Nobarrier,Fs Nb ,1C,none
+35.2,11.8,23.4,52,O,29,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.8,17.2,9.6,21.33333333,N,30,Fullshade,Nobarrier,Fs Nb ,1C,none
+22.8,12.2,10.6,23.55555556,O,30,Fullshade,Nobarrier,Fs Nb ,1C,none
+45.6,40.2,5.4,12,N,31,Halfshade,Fullbarrier,Hs Fb,2A,ts
+39.8,26.6,13.2,29.33333333,O,31,Halfshade,Fullbarrier,Hs Fb,2A,ts
+45,37.8,7.2,16,N,32,Halfshade,Fullbarrier,Hs Fb,2A,ts
+37.8,33.2,4.6,10.22222222,O,32,Halfshade,Fullbarrier,Hs Fb,2A,ts
+40.4,26.6,13.8,30.66666667,N,33,Halfshade,Fullbarrier,Hs Fb,2A,ts
+43.8,28.4,15.4,34.22222222,O,33,Halfshade,Fullbarrier,Hs Fb,2A,ts
+35.8,41.8,-6,-13.33333333,N,34,Halfshade,Fullbarrier,Hs Fb,2A,ts
+23.8,25.6,-1.8,-4,O,34,Halfshade,Fullbarrier,Hs Fb,2A,ts
+61.6,30.2,31.4,69.77777778,N,35,Halfshade,Fullbarrier,Hs Fb,2A,ts
+42.4,20.8,21.6,48,O,35,Halfshade,Fullbarrier,Hs Fb,2A,ts
+45.2,27.4,17.8,39.55555556,N,36,Halfshade,Fullbarrier,Hs Fb,2A,none
+35.4,25.2,10.2,22.66666667,O,36,Halfshade,Fullbarrier,Hs Fb,2A,none
+44.6,45.8,-1.2,-2.666666667,N,37,Halfshade,Fullbarrier,Hs Fb,2A,ts
+45.8,22.4,23.4,52,O,37,Halfshade,Fullbarrier,Hs Fb,2A,none
+58.2,23.6,34.6,76.88888889,N,38,Halfshade,Fullbarrier,Hs Fb,2A,none
+44.2,22.4,21.8,48.44444444,O,38,Halfshade,Fullbarrier,Hs Fb,2A,none
+43.4,30.2,13.2,29.33333333,N,39,Halfshade,Fullbarrier,Hs Fb,2A,ts
+31.4,21,10.4,23.11111111,O,39,Halfshade,Fullbarrier,Hs Fb,2A,ts
+45,31.2,13.8,30.66666667,N,40,Halfshade,Fullbarrier,Hs Fb,2A,ts
+46.2,26.6,19.6,43.55555556,O,40,Halfshade,Fullbarrier,Hs Fb,2A,ts
+37.8,31.6,6.2,13.77777778,N,41,Halfshade,Halfbarrier,Hs Hb ,2B,ts
+34,15,19,42.22222222,O,41,Halfshade,Halfbarrier,Hs Hb ,2B,ts
+67,40,27,60,N,42,Halfshade,Halfbarrier,Hs Hb ,2B,none
+50.4,25.6,24.8,55.11111111,O,42,Halfshade,Halfbarrier,Hs Hb ,2B,none
+55.8,26.8,29,64.44444444,N,43,Halfshade,Halfbarrier,Hs Hb ,2B,ts
+52.8,29.2,23.6,52.44444444,O,43,Halfshade,Halfbarrier,Hs Hb ,2B,ts
+50.6,34.8,15.8,35.11111111,N,44,Halfshade,Halfbarrier,Hs Hb ,2B,none
+28.6,23.4,5.2,11.55555556,O,44,Halfshade,Halfbarrier,Hs Hb ,2B,none
+69.8,22.2,47.6,105.7777778,N,45,Halfshade,Halfbarrier,Hs Hb ,2B,none
+56.6,17.4,39.2,87.11111111,O,45,Halfshade,Halfbarrier,Hs Hb ,2B,none
+56.6,35.4,21.2,47.11111111,N,46,Halfshade,Halfbarrier,Hs Hb ,2B,none
+45.4,14.6,30.8,68.44444444,O,46,Halfshade,Halfbarrier,Hs Hb ,2B,none
+39.2,30.4,8.8,19.55555556,N,47,Halfshade,Halfbarrier,Hs Hb ,2B,none
+38.6,19.8,18.8,41.77777778,O,47,Halfshade,Halfbarrier,Hs Hb ,2B,none
+48.6,26,22.6,50.22222222,N,48,Halfshade,Halfbarrier,Hs Hb ,2B,none
+48.4,17.8,30.6,68,O,48,Halfshade,Halfbarrier,Hs Hb ,2B,none
+49.4,40.6,8.8,19.55555556,N,49,Halfshade,Halfbarrier,Hs Hb ,2B,none
+53.4,21,32.4,72,O,49,Halfshade,Halfbarrier,Hs Hb ,2B,none
+48.6,33,15.6,34.66666667,N,50,Halfshade,Halfbarrier,Hs Hb ,2B,none
+35.4,20.4,15,33.33333333,O,50,Halfshade,Halfbarrier,Hs Hb ,2B,none
+63.4,32.6,30.8,68.44444444,N,51,Halfshade,Nobarrier,Hs Nb ,2C,none
+57,27.4,29.6,65.77777778,O,51,Halfshade,Nobarrier,Hs Nb ,2C,none
+44,31.2,12.8,28.44444444,N,52,Halfshade,Nobarrier,Hs Nb ,2C,none
+30.4,20.4,10,22.22222222,O,52,Halfshade,Nobarrier,Hs Nb ,2C,none
+63,39,24,53.33333333,N,53,Halfshade,Nobarrier,Hs Nb ,2C,none
+42.4,33,9.4,20.88888889,O,53,Halfshade,Nobarrier,Hs Nb ,2C,none
+49,30.4,18.6,41.33333333,N,54,Halfshade,Nobarrier,Hs Nb ,2C,none
+47.4,27.2,20.2,44.88888889,O,54,Halfshade,Nobarrier,Hs Nb ,2C,none
+59.6,68.2,-8.6,-19.11111111,N,55,Halfshade,Nobarrier,Hs Nb ,2C,none
+38.4,31.2,7.2,16,O,55,Halfshade,Nobarrier,Hs Nb ,2C,none
+64,37,27,60,N,56,Halfshade,Nobarrier,Hs Nb ,2C,none
+29.8,26.4,3.4,7.555555556,O,56,Halfshade,Nobarrier,Hs Nb ,2C,none
+46.6,38.4,8.2,18.22222222,N,57,Halfshade,Nobarrier,Hs Nb ,2C,none
+32,21.2,10.8,24,O,57,Halfshade,Nobarrier,Hs Nb ,2C,none
+56.4,37.4,19,42.22222222,N,58,Halfshade,Nobarrier,Hs Nb ,2C,none
+38.8,31.2,7.6,16.88888889,O,58,Halfshade,Nobarrier,Hs Nb ,2C,none
+15,34.2,-19.2,-42.66666667,N,59,Halfshade,Nobarrier,Hs Nb ,2C,none
+40,26.6,13.4,29.77777778,O,59,Halfshade,Nobarrier,Hs Nb ,2C,none
+50.2,35.4,14.8,32.88888889,N,60,Halfshade,Nobarrier,Hs Nb ,2C,none
+50,32.8,17.2,38.22222222,O,60,Halfshade,Nobarrier,Hs Nb ,2C,none
+41.4,49.2,-7.8,-17.33333333,N,61,Noshade,Fullbarrier,Ns Fb,3A,none
+32.2,49.4,-17.2,-38.22222222,O,61,Noshade,Fullbarrier,Ns Fb,3A,none
+48.2,45.4,2.8,6.222222222,N,62,Noshade,Fullbarrier,Ns Fb,3A,ts
+34.8,41.2,-6.4,-14.22222222,O,62,Noshade,Fullbarrier,Ns Fb,3A,none
+44.6,39.2,5.4,12,N,63,Noshade,Fullbarrier,Ns Fb,3A,none
+33.6,35.6,-2,-4.444444444,O,63,Noshade,Fullbarrier,Ns Fb,3A,none
+44.4,47,-2.6,-5.777777778,N,64,Noshade,Fullbarrier,Ns Fb,3A,ts
+38.8,37.4,1.4,3.111111111,O,64,Noshade,Fullbarrier,Ns Fb,3A,ts
+43.2,39,4.2,9.333333333,N,65,Noshade,Fullbarrier,Ns Fb,3A,none
+38.4,31,7.4,16.44444444,O,65,Noshade,Fullbarrier,Ns Fb,3A,ts
+38.8,51.8,-13,-28.88888889,N,66,Noshade,Fullbarrier,Ns Fb,3A,ts
+34.8,48.8,-14,-31.11111111,O,66,Noshade,Fullbarrier,Ns Fb,3A,ts
+50.6,46.8,3.8,8.444444444,N,67,Noshade,Fullbarrier,Ns Fb,3A,ts
+40.4,49.8,-9.4,-20.88888889,O,67,Noshade,Fullbarrier,Ns Fb,3A,ts
+49.2,35.8,13.4,29.77777778,N,68,Noshade,Fullbarrier,Ns Fb,3A,ts
+47.4,29.2,18.2,40.44444444,O,68,Noshade,Fullbarrier,Ns Fb,3A,ts
+60.8,49,11.8,26.22222222,N,69,Noshade,Fullbarrier,Ns Fb,3A,ts
+45.6,28.8,16.8,37.33333333,O,69,Noshade,Fullbarrier,Ns Fb,3A,ts
+42.6,39.6,3,6.666666667,N,70,Noshade,Fullbarrier,Ns Fb,3A,ts
+34.2,26.6,7.6,16.88888889,O,70,Noshade,Fullbarrier,Ns Fb,3A,ts
+59.8,48,11.8,26.22222222,N,71,Noshade,Halfbarrier,Ns Hb ,3B,ts
+39.4,35,4.4,9.777777778,O,71,Noshade,Halfbarrier,Ns Hb ,3B,ts
+46.6,46.2,0.4,0.888888889,N,72,Noshade,Halfbarrier,Ns Hb ,3B,ts
+29.8,49.2,-19.4,-43.11111111,O,72,Noshade,Halfbarrier,Ns Hb ,3B,ts
+43.8,45.4,-1.6,-3.555555556,N,73,Noshade,Halfbarrier,Ns Hb ,3B,ts
+33.2,41.4,-8.2,-18.22222222,O,73,Noshade,Halfbarrier,Ns Hb ,3B,ts
+52.4,52.4,0,0,N,74,Noshade,Halfbarrier,Ns Hb ,3B,ts
+27.8,41.8,-14,-31.11111111,O,74,Noshade,Halfbarrier,Ns Hb ,3B,none
+51.8,50.2,1.6,3.555555556,N,75,Noshade,Halfbarrier,Ns Hb ,3B,ts
+27.8,61.8,-34,-75.55555556,O,75,Noshade,Halfbarrier,Ns Hb ,3B,none
+56,44,12,26.66666667,N,76,Noshade,Halfbarrier,Ns Hb ,3B,none
+45.8,47.4,-1.6,-3.555555556,O,76,Noshade,Halfbarrier,Ns Hb ,3B,none
+33.8,54.2,-20.4,-45.33333333,N,77,Noshade,Halfbarrier,Ns Hb ,3B,none
+22.2,32.4,-10.2,-22.66666667,O,77,Noshade,Halfbarrier,Ns Hb ,3B,none
+45,43.8,1.2,2.666666667,N,78,Noshade,Halfbarrier,Ns Hb ,3B,ts
+34.8,37.8,-3,-6.666666667,O,78,Noshade,Halfbarrier,Ns Hb ,3B,ts
+43,36.2,6.8,15.11111111,N,79,Noshade,Halfbarrier,Ns Hb ,3B,ts
+43,47.6,-4.6,-10.22222222,O,79,Noshade,Halfbarrier,Ns Hb ,3B,ts
+42.4,43.8,-1.4,-3.111111111,N,80,Noshade,Halfbarrier,Ns Hb ,3B,ts
+32.6,48,-15.4,-34.22222222,O,80,Noshade,Halfbarrier,Ns Hb ,3B,ts
+36,49.8,-13.8,-30.66666667,N,81,Noshade,Nobarrier,Ns Nb ,3C,none
+38.2,49,-10.8,-24,O,81,Noshade,Nobarrier,Ns Nb ,3C,none
+36.2,62.8,-26.6,-59.11111111,N,82,Noshade,Nobarrier,Ns Nb ,3C,ts
+38.8,46.8,-8,-17.77777778,O,82,Noshade,Nobarrier,Ns Nb ,3C,ts
+61.4,49,12.4,27.55555556,N,83,Noshade,Nobarrier,Ns Nb ,3C,none
+50.2,44.2,6,13.33333333,O,83,Noshade,Nobarrier,Ns Nb ,3C,none
+46.6,56.8,-10.2,-22.66666667,N,84,Noshade,Nobarrier,Ns Nb ,3C,none
+43.6,44.6,-1,-2.222222222,O,84,Noshade,Nobarrier,Ns Nb ,3C,none
+42.4,30.2,12.2,27.11111111,N,85,Noshade,Nobarrier,Ns Nb ,3C,ts
+35.4,11.6,23.8,52.88888889,O,85,Noshade,Nobarrier,Ns Nb ,3C,ts
+48,52.4,-4.4,-9.777777778,N,86,Noshade,Nobarrier,Ns Nb ,3C,none
+47.2,35.6,11.6,25.77777778,O,86,Noshade,Nobarrier,Ns Nb ,3C,none
+52,41.6,10.4,23.11111111,N,87,Noshade,Nobarrier,Ns Nb ,3C,none
+56.2,36.8,19.4,43.11111111,O,87,Noshade,Nobarrier,Ns Nb ,3C,none
+46.6,43,3.6,8,N,88,Noshade,Nobarrier,Ns Nb ,3C,ts
+34.8,48.8,-14,-31.11111111,O,88,Noshade,Nobarrier,Ns Nb ,3C,ts
+54.6,39.2,15.4,34.22222222,N,89,Noshade,Nobarrier,Ns Nb ,3C,none
+38.4,34.8,3.6,8,O,89,Noshade,Nobarrier,Ns Nb ,3C,none
+44.2,47,-2.8,-6.222222222,N,90,Noshade,Nobarrier,Ns Nb ,3C,none
+36.8,40.4,-3.6,-8,O,90,Noshade,Nobarrier,Ns Nb ,3C,none

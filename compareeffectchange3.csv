@@ -1,0 +1,61 @@
+Stomatal Density Average R,Stomatal Density Average L,Difference between L & R,Difference between L & R mm2,age,potnumber,shade,barrier,shadebarrierword,shadebarrier,remark
+23.2,41.8,-18.6,-41.33333333,N,1,Fullshade,Fullbarrier,Fs Fb,1A,none
+21.8,38,-16.2,-36,O,1,Fullshade,Fullbarrier,Fs Fb,1A,none
+20,37.8,-17.8,-39.55555556,N,2,Fullshade,Fullbarrier,Fs Fb,1A,none
+15.6,28.4,-12.8,-28.44444444,O,2,Fullshade,Fullbarrier,Fs Fb,1A,none
+27.4,36.2,-8.8,-19.55555556,N,3,Fullshade,Fullbarrier,Fs Fb,1A,none
+22,29.6,-7.6,-16.88888889,O,3,Fullshade,Fullbarrier,Fs Fb,1A,none
+30.8,37.6,-6.8,-15.11111111,N,4,Fullshade,Fullbarrier,Fs Fb,1A,none
+8.4,23,-14.6,-32.44444444,O,4,Fullshade,Fullbarrier,Fs Fb,1A,none
+32,39.2,-7.2,-16,N,5,Fullshade,Fullbarrier,Fs Fb,1A,none
+19,21.6,-2.6,-5.777777778,O,5,Fullshade,Fullbarrier,Fs Fb,1A,none
+34.8,29,5.8,12.88888889,N,6,Fullshade,Fullbarrier,Fs Fb,1A,none
+21,22.6,-1.6,-3.555555556,O,6,Fullshade,Fullbarrier,Fs Fb,1A,none
+35.8,30.2,5.6,12.44444444,N,7,Fullshade,Fullbarrier,Fs Fb,1A,none
+22.2,21.4,0.8,1.777777778,O,7,Fullshade,Fullbarrier,Fs Fb,1A,none
+18.6,23.2,-4.6,-10.22222222,N,8,Fullshade,Fullbarrier,Fs Fb,1A,none
+28.8,31.8,-3,-6.666666667,O,8,Fullshade,Fullbarrier,Fs Fb,1A,none
+26.4,42.6,-16.2,-36,N,9,Fullshade,Fullbarrier,Fs Fb,1A,none
+26.6,26.2,0.4,0.888888889,O,9,Fullshade,Fullbarrier,Fs Fb,1A,none
+36.8,23.2,13.6,30.22222222,N,10,Fullshade,Fullbarrier,Fs Fb,1A,none
+29.6,16,13.6,30.22222222,O,10,Fullshade,Fullbarrier,Fs Fb,1A,none
+34.4,27,7.4,16.44444444,N,11,Fullshade,Halfbarrier,Fs Hb ,1B,none
+16,19.6,-3.6,-8,O,11,Fullshade,Halfbarrier,Fs Hb ,1B,none
+37.6,25,12.6,28,N,12,Fullshade,Halfbarrier,Fs Hb ,1B,ts
+29.2,25,4.2,9.333333333,O,12,Fullshade,Halfbarrier,Fs Hb ,1B,none
+27.6,30.6,-3,-6.666666667,N,13,Fullshade,Halfbarrier,Fs Hb ,1B,none
+29.8,22.8,7,15.55555556,O,13,Fullshade,Halfbarrier,Fs Hb ,1B,none
+35.6,26.4,9.2,20.44444444,N,14,Fullshade,Halfbarrier,Fs Hb ,1B,ts
+40.6,17,23.6,52.44444444,O,14,Fullshade,Halfbarrier,Fs Hb ,1B,ts
+28.2,56.2,-28,-62.22222222,N,15,Fullshade,Halfbarrier,Fs Hb ,1B,none
+17.2,36,-18.8,-41.77777778,O,15,Fullshade,Halfbarrier,Fs Hb ,1B,none
+32.6,35,-2.4,-5.333333333,N,16,Fullshade,Halfbarrier,Fs Hb ,1B,none
+27.2,22.6,4.6,10.22222222,O,16,Fullshade,Halfbarrier,Fs Hb ,1B,none
+39.8,31,8.8,19.55555556,N,17,Fullshade,Halfbarrier,Fs Hb ,1B,none
+30.8,20.6,10.2,22.66666667,O,17,Fullshade,Halfbarrier,Fs Hb ,1B,none
+32.4,34.6,-2.2,-4.888888889,N,18,Fullshade,Halfbarrier,Fs Hb ,1B,none
+23,24.2,-1.2,-2.666666667,O,18,Fullshade,Halfbarrier,Fs Hb ,1B,none
+30.6,37.6,-7,-15.55555556,N,19,Fullshade,Halfbarrier,Fs Hb ,1B,none
+33.2,23.6,9.6,21.33333333,O,19,Fullshade,Halfbarrier,Fs Hb ,1B,none
+37.8,32.4,5.4,12,N,20,Fullshade,Halfbarrier,Fs Hb ,1B,none
+31,44.2,-13.2,-29.33333333,O,20,Fullshade,Halfbarrier,Fs Hb ,1B,none
+35,27.2,7.8,17.33333333,N,21,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.8,16.4,10.4,23.11111111,O,21,Fullshade,Nobarrier,Fs Nb ,1C,none
+20,30.4,-10.4,-23.11111111,N,22,Fullshade,Nobarrier,Fs Nb ,1C,none
+17.8,29.4,-11.6,-25.77777778,O,22,Fullshade,Nobarrier,Fs Nb ,1C,none
+35,28.4,6.6,14.66666667,N,23,Fullshade,Nobarrier,Fs Nb ,1C,none
+22.2,26,-3.8,-8.444444444,O,23,Fullshade,Nobarrier,Fs Nb ,1C,none
+37,28.2,8.8,19.55555556,N,24,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.6,25.2,1.4,3.111111111,O,24,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.2,20.2,6,13.33333333,N,25,Fullshade,Nobarrier,Fs Nb ,1C,none
+21.4,11.6,9.8,21.77777778,O,25,Fullshade,Nobarrier,Fs Nb ,1C,none
+28.6,36.4,-7.8,-17.33333333,N,26,Fullshade,Nobarrier,Fs Nb ,1C,none
+20.4,28.2,-7.8,-17.33333333,O,26,Fullshade,Nobarrier,Fs Nb ,1C,none
+35.8,30.6,5.2,11.55555556,N,27,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.6,22.4,4.2,9.333333333,O,27,Fullshade,Nobarrier,Fs Nb ,1C,none
+40,21,19,42.22222222,N,28,Fullshade,Nobarrier,Fs Nb ,1C,none
+19.4,13.2,6.2,13.77777778,O,28,Fullshade,Nobarrier,Fs Nb ,1C,none
+36.6,17,19.6,43.55555556,N,29,Fullshade,Nobarrier,Fs Nb ,1C,none
+35.2,11.8,23.4,52,O,29,Fullshade,Nobarrier,Fs Nb ,1C,none
+26.8,17.2,9.6,21.33333333,N,30,Fullshade,Nobarrier,Fs Nb ,1C,none
+22.8,12.2,10.6,23.55555556,O,30,Fullshade,Nobarrier,Fs Nb ,1C,none
